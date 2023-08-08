@@ -1,0 +1,10 @@
+this is a test
+to find if 
+foobar can be found
+in a line
+where foobar 
+is only in some places
+foo but not bar haha
+gotcha this
+is a foobar
+thing that foobar
